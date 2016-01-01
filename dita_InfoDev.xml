@@ -3,13 +3,13 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.oxygenxml.com/ns/extension http://www.oxygenxml.com/ns/extension/extensions.xsd">
     <xt:extension id="dita_InfoDev">
-      <xt:location href="dita_InfoDev.zip"/>
-        <xt:version>1.0.0</xt:version>
+        <xt:location href="dita_InfoDev.zip"/>
+        <xt:version>17.1</xt:version>
         <xt:oxy_version>14.0+</xt:oxy_version>
         <xt:type>framework</xt:type>
         <xt:author>Mona Strubberg</xt:author>
         <xt:name>dita_InfoDev</xt:name>
-        <xt:description xmlns="http://www.w3.org/1999/xhtml">My test framework add-on</xt:description>
+        <xt:description xmlns="http://www.w3.org/1999/xhtml">Oxygen 17.1 mac framework</xt:description>
         <xt:license>
 <![CDATA[
 
